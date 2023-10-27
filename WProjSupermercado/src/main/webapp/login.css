@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+body{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: #372a4a;
+}
+
+.check{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: white;
+}
+
+img{
+    margin-left: 54vh;
+}
+
+form label{
+    margin-left: 66vh;
+    color: white;
+}
+
+.pass{
+    margin-left: 67vh;
+}
+
+form input{
+    margin-top: 1vh;
+    width: 20vh;
+    margin-left: 1vh;
+}
+
+.inpPass{
+    margin-left: 11px;
+}
+
+.sub{
+    margin-top: 5vh;
+    margin-left: 76vh;
+    width: 20vh;
+    background-color: #b18fe2;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    cursor: pointer;
+}
+
+.sub:hover{
+	background: transparent;
+    border: 1px solid #b18fe2;
+    color: #b18fe2;
+    transition: .4s;
+}

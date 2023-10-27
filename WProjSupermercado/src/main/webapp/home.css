@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body{
+	background-color: #372a4a;
+}
+
+img{
+    margin-left: 54vh;
+}
+
+input{
+    margin-top: 3vh;
+    margin-left: 76vh;
+    width: 20vh;
+    height: 6vh;
+    background-color: #b18fe2;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    cursor: pointer;
+}
+
+input:hover{
+	background: transparent;
+    border: 1px solid #b18fe2;
+    color: #b18fe2;
+    transition: .4s;
+}
+
+.off{
+	margin-top: 3vh;
+    margin-left: 76vh;
+    width: 20vh;
+    height: 6vh;
+    background-color: #c90828;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    cursor: pointer;
+}
+
+.off:hover{
+	background: transparent;
+    border: 1px solid #c90828;
+    color: #c90828;
+    transition: .4s;
+}

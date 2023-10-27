@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+body{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: #372a4a;
+	color: white;
+}
+
+img{
+    margin-left: 54vh;
+}
+
+.btnA{
+    margin-top: 5vh;
+    margin-left: 76vh;
+    width: 20vh;
+    height: 6vh;
+    background-color: #b18fe2;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btnA:hover{
+	background: transparent;
+    border: 1px solid #b18fe2;
+    color: #b18fe2;
+    transition: .4s;
+}
+
+.btnB{
+    margin-top: 10vh;
+    margin-left: 76vh;
+    width: 20vh;
+    height: 6vh;
+    background-color: #b18fe2;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btnB:hover{
+	background: transparent;
+    border: 1px solid #b18fe2;
+    color: #b18fe2;
+    transition: .4s;
+}
+
+.lab{
+    margin-left: 56vh;
+    margin-top: 2vh;
+}
+
+.labN{
+    margin-left: 68vh;
+}
+
+.labP{
+    margin-left: 69vh;
+}
+
+.labB{
+    margin-left: 58vh;
+}
+
+.reg input{
+    margin-top: 2vh;
+}
